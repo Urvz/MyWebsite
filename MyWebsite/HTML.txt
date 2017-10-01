@@ -1,0 +1,13 @@
+-Search engine for youtube videos
+-Starts off with 3 categories
+-Channel, video, I don't know what to watch(quiz)
+-When clicked on channel or video, shows custom search engine, popular videos, and categories come up leading to 
+what the user amy want to watch.
+-when clicked on I dont know what to watch, quiz pops up asking user series of questions, eventualy leading them
+to some videos on youtube that they may want to watch, things they may have not heard of.
+-Things to filter search results could be:
+	-sub count
+	-like/dislike %
+	-view count
+	-category
+	
